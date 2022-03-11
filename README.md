@@ -1,7 +1,4 @@
-###
-Hello there! 
-Ali akbar here
-###
+### Hi, I am Ali Akbar
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=2015n3192)  
 <br/>
  ![GitHub Activity stats]( https://activity-graph.herokuapp.com/graph?username=2015n3192)
